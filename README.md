@@ -1,6 +1,6 @@
 # RegNet: Self-Regulated Network for Image Classification
 
-This repository contains the implementation of the RegNet model proposed in the paper "RegNet: Self-Regulated Network for Image Classification" by Ilija Radosavovic et al.
+This repository contains the improvised solution of the RegNet model proposed in the paper "RegNet: Self-Regulated Network for Image Classification" by Ilija Radosavovic et al.
 
 ## Introduction
 
