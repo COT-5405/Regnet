@@ -34,7 +34,7 @@ To train the model and evaluate it on the test set, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<username>/regnet-image-classification.git
+git clone https://github.com/COT-5405/Regnet.git
 ```
 
 2. Run the training script:
